@@ -1,9 +1,10 @@
 # Unity_GridPathFindingExploration
 A personal project building path-finding from scratch.
 
-Currently contains a tile and gridpath prefab with associated scripts.
+Currently contains a Unity package with a tile and gridpath prefab with associated scripts.
 
-Bring the GridPath.prefab and GridPath_UI.prefab into a scene. 
+Import the Unity package into a scene/project.
+Bring the GridPath.prefab and GridPath_UI.prefab into the scene. 
 Hook up the UI buttons to their respective functions located on the WavePathFinder object.
 Toggle settings for the grid size. Toggle settings for the source, target, and pathfinding grid limit values.
 
