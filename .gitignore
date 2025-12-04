@@ -69,8 +69,8 @@ mono_crash.*
 # Builds
 *.apk
 *.aab
-*.unitypackage
-*.unitypackage.meta
+#*.unitypackage       ## ALLOW FOR SHARING
+#*.unitypackage.meta  ## ALLOW FOR SHARING
 *.app
 
 # Crashlytics generated file
